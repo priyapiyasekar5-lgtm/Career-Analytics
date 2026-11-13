@@ -52,3 +52,6 @@ Created four interactive Power BI dashboards to analyze student placements, sala
 M.Sc. Statistics Graduate | Data Analyst
 
 [LinkedIn](https://www.linkedin.com/in/priya-statistics) | [GitHub](https://github.com/priyapiyasekar5-lgtm)
+## 📊 Dashboard 1 – Placement Overview
+
+![Placement Overview](Screenshot%202026-11-13%20120847.png)
