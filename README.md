@@ -66,5 +66,4 @@ M.Sc. Statistics Graduate | Data Analyst
 ![Salary and Placement Insights](Screenshot%202026-11-13%20121008.png)
 ## 📄 Data Analyst Portfolio
 
-[View My Portfolio (PDF)](./Priya_Data_Analyst_Portfolio.pdf)
-
+[View My Data Analyst Portfolio (PDF)](./priya%20data%20analyst%20portfalio.pdf)
